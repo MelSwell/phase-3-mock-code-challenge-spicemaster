@@ -7,7 +7,7 @@
     },
     {
       "id": 2,
-      "title": "Za'atar",
+      "title": "Za'atar Homey!",
       "image": "./assets/spices/zaatar.jpg"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "id": 4,
-      "title": "Five Spice",
+      "title": "Five Spice of Babylonia",
       "image": "./assets/spices/fivespice.jpg"
     }
   ],
@@ -106,6 +106,81 @@
       "name": "Pepper",
       "spiceblendId": 3,
       "id": 17
+    },
+    {
+      "spiceblendId": 1,
+      "name": "Garlic",
+      "id": 18
+    },
+    {
+      "spiceblendId": 1,
+      "name": "Tomato",
+      "id": 19
+    },
+    {
+      "spiceblendId": 1,
+      "name": "ham",
+      "id": 20
+    },
+    {
+      "spiceblendId": 1,
+      "name": "Cheese",
+      "id": 21
+    },
+    {
+      "spiceblendId": 1,
+      "name": "grundle",
+      "id": 22
+    },
+    {
+      "spiceblendId": 1,
+      "name": "grunnnnnnnnnnddddddddlllllle",
+      "id": 23
+    },
+    {
+      "spiceblendId": 3,
+      "name": "froyo",
+      "id": 24
+    },
+    {
+      "spiceblendId": 4,
+      "name": "The Walls",
+      "id": 25
+    },
+    {
+      "spiceblendId": 4,
+      "name": "Elementary",
+      "id": 26
+    },
+    {
+      "spiceblendId": 3,
+      "name": "French Fries",
+      "id": 27
+    },
+    {
+      "spiceblendId": 2,
+      "name": "Falafel",
+      "id": 28
+    },
+    {
+      "spiceblendId": 1,
+      "name": "asd",
+      "id": 29
+    },
+    {
+      "spiceblendId": 1,
+      "name": "More Cheese",
+      "id": 30
+    },
+    {
+      "spiceblendId": 3,
+      "name": "Good Stuff",
+      "id": 31
+    },
+    {
+      "spiceblendId": 2,
+      "name": "Love Za'atar",
+      "id": 32
     }
   ]
 }
